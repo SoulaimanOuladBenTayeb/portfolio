@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'friz';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/friz-quadrata-regular-os-5870333951e7c.woff') format('woff');
+}
+
+h2, h3, p, button, label, textarea, ::placeholder, li {
+    font-family: 'Friz';
+    color: rgb(218, 199, 117);
+}
+
+h2 {
+    font-size: 3em;
+}
+
+a, li {
+    text-decoration: none;
+    list-style-type: none;
+}

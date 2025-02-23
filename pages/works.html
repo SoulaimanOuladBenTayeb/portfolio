@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Souli Portfolio</title>
+  <link rel="stylesheet" href="../css/master.css">
+  <link rel="stylesheet" href="../css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+<body>
+
+  <div class="fullScreenOverlay">
+    <a href="../index.html">
+      <img src="../assets/logoGold2.png" alt="Logo" class="logo worklogo">
+    </a>
+    <a>
+    <div class="cross">
+      <div class="line left-line"></div>
+      <div class="line right-line"></div>
+    </div>
+    </a>
+    <ul>
+      <li class="home"><a href="../index.html">HOME</a></li>
+      <li class="about"><a href="./about.html">ABOUT</a></li>
+      <li class="works activeNavigation"><a href="works.html">WORKS</a></li>
+    </ul>
+
+    <div class="animated-container overlayAnimation">
+      <img src="../assets/circleGold.png" alt="Rotating Ring" class="ring">
+      <img src="../assets/fullDiamondGold.png" alt="Diamond" class="diamond">
+      <img src="../assets/noCircleSquareGold.png" alt="Tube" class="tube">
+    </div>
+  </div>
+
+  <header class="worksHeader">
+        <!-- <a href="../index.html">
+          <img src="../assets/logoGold2.png" alt="Logo" class="logo worklogo">
+        </a> -->
+        <a>
+        <div class="hamburger">
+          <div class="line top-line"></div>
+          <div class="line bottom-line"></div>
+        </div>
+    </a>
+    <a href="../index.html">
+    <img src="../assets/logoGold2.png" alt="Logo" class="logo phoneWorkLogo"></a>
+  </header>
+  </div>
+
+  <nav class="sidebarWork">
+    <a href="../index.html">
+        <img src="../assets/logoGold2.png" alt="Logo" class="logo worklogo">
+    </a>
+    
+    <ul>
+        <li><a href="#" data-category="uiux">UI/UX & Web Prototyping</a></li>
+        <li><a href="#" data-category="motion">Motion Design & Video Editing</a></li>
+        <li><a href="#" data-category="graphic">Graphic Design & Illustration</a></li>
+        <li><a href="#" data-category="social">Social Media Content Creation</a></li>
+    </ul>
+</nav>
+
+
+
+<nav class="phoneNavigationWork">
+  <div class="nav-item">
+    <li>
+    <a href="#" data-category="uiux">
+    <i class="fas fa-globe"></i></a>
+  </li>
+    <!-- <span>Web</span> -->
+  </div>
+  <div class="nav-item">
+    <li>
+      <a href="#" data-category="motion">
+        <i class="fas fa-video"></i></a>
+      </li>
+      <!-- <span>Motion</span> -->
+  </div>
+  <div class="nav-item">
+    <li>
+    <a href="#" data-category="graphic">
+      <i class="fas fa-paint-brush"></i></a>
+    </li>
+      <!-- <span>Design</span> -->
+  </div>
+  <div class="nav-item">
+  <li>
+    <a href="#" data-category="social">
+    <i class="fas fa-photo-film"></i></a>
+  </li>
+      <!-- <span>Social</span> -->
+  </div>
+</nav>
+
+<!-- Image Container -->
+<div class="image-container"></div>
+
+
+<!-- Detailed View Section (Initially Hidden) -->
+<div class="project-details hidden">
+  <button class="back-button">← Back</button>
+  <div class="details-content">
+      <div class="text-section">
+          <h2 id="project-title"></h2>
+          <p id="project-description"></p>
+          <a id="project-link" href="#" target="_blank" class="button-project-link">
+              <button class="view-project-button">View Project</button>
+          </a>
+      </div>
+      <div class="image-section">
+          <img id="project-image" src="" alt="Project Image">
+      </div>
+  </div>
+</div>
+
+
+  <script type="module" src="../js/script.js"></script>
+  <script type="module" src="../js/works.js"></script>
+</body>
+</html>

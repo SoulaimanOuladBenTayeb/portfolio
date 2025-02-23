@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Souli Portfolio</title>
+  <link rel="stylesheet" href="css/master.css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+  <div class="fullScreenOverlay">
+    <a href="index.html">
+      <img src="assets/logoGold2.png" alt="Logo" class="logo">
+    </a>
+    <div class="cross">
+      <div class="line left-line"></div>
+      <div class="line right-line"></div>
+    </div>
+    <ul>
+      <li class="activeNavigation"><a href="index.html">HOME</a></li>
+      <li class="about"><a href="./pages/about.html">ABOUT</a></li>
+      <li class="works"><a href="pages/works.html">WORKS</a></li>
+    </ul>
+
+    <div class="animated-container overlayAnimation">
+      <img src="assets/circleGold.png" alt="Rotating Ring" class="ring">
+      <img src="assets/fullDiamondGold.png" alt="Diamond" class="diamond">
+      <img src="assets/noCircleSquareGold.png" alt="Tube" class="tube">
+    </div>
+  </div>
+
+  <header>
+    <a href="index.html">
+      <img src="assets/logoGold2.png" alt="Logo" class="logo">
+    </a>
+    <div class="hamburger">
+      <div class="line top-line"></div>
+      <div class="line bottom-line"></div>
+    </div>
+
+    <div class="animated-container">
+      <img src="assets/circleGold.png" alt="Rotating Ring" class="ring">
+      <img src="assets/fullDiamondGold.png" alt="Diamond" class="diamond">
+      <img src="assets/noCircleSquareGold.png" alt="Tube" class="tube">
+    </div>
+    <img src="assets/name2.png" alt="Name" class="name">
+  </header>
+
+  <div class="container">
+    <main>
+        <h2>Latest works</h2>
+        <div class="slider-wrapper">
+          <img src="assets/sliderArrowLeft.png" alt="Left Arrow" class="slider-btn left-btn">
+          <div class="slider">
+            <div class="slider-container">
+            </div>
+            
+          </div>
+          <img src="assets/sliderArrowRight.png" alt="Right Arrow" class="slider-btn right-btn">
+        </div>
+        <a href="pages/works.html" class="moreWorksButtonLink">
+        <button class="view-more-btn">View More Works</button>
+      </a>
+    </main>
+
+    <section class="contact-wrapper">
+      <div class="contact-section">
+        <h2>Get in touch!</h2>
+        <div class="contact-container">
+          <form action="https://formspree.io/f/mnnjvael" method="POST" class="contact-form">
+            <label for="email">Your Email:</label>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required>
+    
+            <label for="message">Your Message:</label>
+            <textarea id="message" name="message" placeholder="Type your message here..." required></textarea>
+    
+            <button type="submit" class="view-more-btn submit-btn">Send Message</button>
+          </form>
+        </div>
+      </div>
+      
+      <!-- New Section -->
+      <div class="info-section">
+        
+        <div class="social-icons">
+          <a href="https://www.linkedin.com/in/soulaiman-oulad-ben-tayeb-253981210/" target="_blank">
+            <img src="assets/linkedin.png" alt="LinkedIn">
+          </a>
+          <a href="https://www.instagram.com/soulioulad/" target="_blank">
+            <img src="assets/instagram.png" alt="Instagram">
+          </a>
+          <a href="https://www.facebook.com/soulibg.oulad" target="_blank">
+            <img src="assets/facebook.png" alt="Facebook">
+          </a>
+        </div>
+
+        <!-- <img src="assets/facetorse.png" alt="Myface" class="myFace"> -->
+      </div>
+    </section>
+    
+
+  </div>
+
+  <script type="module" src="js/script.js"></script>
+</body>
+</html>
