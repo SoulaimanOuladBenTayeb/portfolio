@@ -79,6 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       attachImageClickEvents();
       setHoverEffectOnProjectNames();
+      
   }
 
   // Custom Cursor
@@ -105,22 +106,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
       projectNames.forEach(project => {
           project.addEventListener('mouseenter', () => {
-              customCursor.style.backgroundImage = "url(../assets/cursorHover.png)";
+              customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png)";
           });
 
           project.addEventListener('mouseleave', () => {
-              customCursor.style.backgroundImage = "url(../assets/cursor.png)";
+              customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursor.png)";
           });
       });
   }
 
   document.querySelectorAll('a, button, .clickable').forEach(element => {
       element.addEventListener('mouseenter', () => {
-          customCursor.style.backgroundImage = "url(../assets/cursorHover.png)";
+          customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png)";
       });
 
       element.addEventListener('mouseleave', () => {
-          customCursor.style.backgroundImage = "url(../assets/cursor.png)";
+          customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursor.png)";
       });
   });
 

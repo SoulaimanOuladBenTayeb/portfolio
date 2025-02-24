@@ -3,7 +3,7 @@
       "id": 1,
       "title": "Web 1 Portfolio",
       "description": "In my first year of university I worked on a portfolio as part of the \"Web\" course. This project was designed as a practical way to apply the techniques we learned in class. After each lesson, I updated the portfolio by implementing the topics we had just covered.\n\nThrough this process, I gained hands-on experience with web development and built a solid understanding of the basics, such as HTML and CSS, and possibly some JavaScript, depending on the lesson. This portfolio not only tracked my progress but also served as a demonstration of my growing technical skills. It was a rewarding way to see how my knowledge evolved over time and to gain confidence in building web applications.",
-      "image": "../assets/web-01.svg",
+      "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/web-01.svg",
       "link": "https://soulioulad.be/websites/web1/",
       "category": "uiux"
     },
@@ -11,14 +11,14 @@
       "id": 2,
       "title": "Song poster",
       "description": "I created a text-only poster inspired by the song 7 Years by Lukas Graham. The design focused on the lyric: \"I only see my goals, I don't believe in failures.\" I emphasized the first part of the sentence to draw attention to ambition and optimism while subtly downplaying the mention of failure.\n\nUsing Illustrator, I carefully arranged the typography to reinforce this message visually. This project allowed me to explore the impact of text-based design and how composition, hierarchy, and spacing can influence perception and meaning.",
-      "image": "../assets/song-01.svg",
+      "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/song-01.svg",
       "category": "graphic"
     },
     {
       "id": 3,
       "title": "Gaiming",
       "description": "This project involved creating a website for a friend's video game project, which focused on aiming mechanics. My friend asked me to develop a complete brand for the game, including designing the logo and building a one-page website that captured the essence of his game. This was an exciting challenge that allowed me to blend creativity with technical skills.\n\nI had a lot of fun working on this project because it gave me the opportunity to learn and experiment with new techniques. From branding to web development, this experience helped me expand my skill set and create a cohesive and visually engaging online presence for the game.",
-      "image": "../assets/gaiming-01.svg",
+      "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/gaiming-01.svg",
       "link": "https://soulioulad.be/websites/gaiming",
       "category": "uiux"
     },
@@ -26,7 +26,7 @@
         "id": 4,
         "title": "Food Choice",
         "description": "In my first year of university, I created a video infographic about food pairings for the perfect taste. The video explored which foods complement each other best and highlighted the importance of making healthy choices when combinations aren’t ideal.\n\nI designed the illustrations in Illustrator and then imported them into After Effects, where I animated smooth transitions between the drawings. This project helped me improve my skills in digital illustration, motion design, and storytelling while effectively presenting information in a visually engaging way.",
-        "image": "../assets/food-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/food-01.svg",
         "link": "https://youtu.be/0mvaUctRSDk",
         "category": "motion"
     },
@@ -34,14 +34,14 @@
       "id": 5,
       "title": "Name Poster",
       "description": "In my 6th year of high school, I created a poster featuring only my name and logo for my \"GIP\" (which stands for \"Travaux d'Initiative Personnelle\", a personal initiative project). The goal was to showcase my design identity.I used Illustrator to create the poster and applied isometric text to give it a unique, 3D effect. This project allowed me to explore the creative use of typography and design techniques to create a clean, professional look.",
-      "image": "../assets/namePoster-01.svg",
+      "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/namePoster-01.svg",
       "category": "graphic"
     },
     {
       "id": 6,
       "title": "Camera Particles in Touchdesigner",
       "description": "To experiment with TouchDesigner, I created an exercise where the camera captured my image and displayed it as particles, while preserving the normal colors.This project allowed me to explore the intersection of live video and visual effects, learning how to manipulate real-time data and experiment with generative visuals. It was a fun way to understand the potential of TouchDesigner for interactive and dynamic projects.",
-      "image": "../assets/camera-01.svg",
+      "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/camera-01.svg",
       "link": "https://youtu.be/-_ycskCvZ0k",
       "category": "motion"
     },
@@ -49,7 +49,7 @@
         "id": 7,
         "title": "Teach for Belgium",
         "description": "Over the course of three weeks, I worked on a project for Teach For Belgium, an organization that aims to reduce educational inequality by supporting teachers and students in disadvantaged areas. The client requested an application that could help teachers and students test their abilities and bring more organization into their professional and academic lives.\n\nThe application was designed to facilitate direct feedback between teachers and students, creating a streamlined communication platform. This project allowed me to dive into both the technical and user experience aspects of development, ensuring that the application met the client’s needs while remaining user-friendly and efficient.",
-        "image": "../assets/teachforbelgium-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/teachforbelgium-01.svg",
         "link": "https://xd.adobe.com/view/c358b4e3-b257-4f95-78d9-dc45015674e5-b569/",
         "category": "uiux"
       },
@@ -57,7 +57,7 @@
         "id": 8,
         "title": "DODO",
         "description": "DODO is an application designed to help users find a place to sleep with ease and convenience. The platform allows users to reserve accommodations, check their calendars, and communicate with friends or other hosts who rent out their places. It also provides users with insights into how well different accommodations are rated, making it easier to choose the best option.\n\nThis project was an exciting opportunity to work on a comprehensive application that combines functionality and user interaction. From creating features for seamless reservations to integrating a rating system, DODO was a challenging yet rewarding project that enhanced my skills in designing user-centric applications.",
-        "image": "../assets/dodo-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/dodo-01.svg",
         "link": "https://xd.adobe.com/view/6fceb93b-1088-4956-936d-3a80dc4cdacb-3a9d/",
         "category": "uiux"
       },
@@ -65,14 +65,14 @@
         "id": 9,
         "title": "Merve Osaslan exercice",
         "description": "Inspired by the works of Merve Ozaslan, a talented visual artist known for her innovative and thought-provoking photo manipulations, I combined a picture of a book with an image of a forest, creatively merging the two to form the shape of a heart. This project allowed me to experiment with photo manipulation techniques and explore how different visual elements can be blended to convey emotions and tell a story. The heart symbolized the connection between knowledge and nature, bringing together two contrasting worlds in a single composition.",
-        "image": "../assets/merve-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/merve-01.svg",
         "category": "graphic"
       },
       {
           "id": 10,
           "title": "2023 JDN logo animation",
           "description": "For JDN, a futsal club, I created a logo animation where the logo appears with thunder and lightning. I used the Saber plugin in After Effects to create dynamic lightning effects that gave the animation a powerful and energetic feel. This project helped me refine my skills in motion graphics and visual effects, as I learned how to synchronize the logo reveal with dramatic lighting to enhance its impact. It was a great opportunity to experiment with sound and visual cues to create a striking and memorable animation.",
-          "image": "../assets/jdnAnimation2-01.svg",
+          "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/jdnAnimation2-01.svg",
           "link": "https://www.instagram.com/p/Cw700okOhGF/",
           "category": "social"
       },
@@ -80,14 +80,14 @@
         "id": 11,
         "title": "Face poster",
         "description": "For the GIP in my 6th year of high school, I created a poster about myself to promote the blog, which was the final project of my GIP. The poster aimed to visually represent my personal brand and the content of the blog. I used Photoshop to design the poster and applied the double exposure technique to create a unique and visually striking effect. This project allowed me to experiment with blending images and layers to convey a deeper, more artistic representation of myself and my work.",
-        "image": "../assets/facePoster-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/facePoster-01.svg",
         "category": "graphic"
       },
       {
         "id": 12,
         "title": "D'Ieteren",
         "description": "As an exercise, I created a one-page website for D'Ieteren, a leading Belgian company specializing in automotive services and solutions. Over the course of a week, I focused on designing a visually engaging and playful one-pager that showcased their connection to the car industry while remaining user-friendly and modern.\n\nTo make the website more attractive, I incorporated car images in creative and playful positions, adding a dynamic element to the design. This project allowed me to explore innovative design techniques and learn how to balance aesthetics with functionality, resulting in an engaging and interactive web experience.",
-        "image": "../assets/dieteren-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/dieteren-01.svg",
         "link": "https://soulioulad.be/websites/dieteren",
         "category": "uiux"
       },
@@ -95,14 +95,14 @@
         "id": 13,
         "title": "Montage",
         "description": "I created a collage in Photoshop, where I combined a black-and-white drawing of a tiger with a photograph of a safari landscape featuring an antelope. The technique involved blending these elements together to create a cohesive and visually striking composition.\n\nWhile I'm not sure of the exact name for the technique, it involved transforming the tiger image into a drawing and merging it with the natural environment to create a seamless, artistic scene. This project allowed me to explore photo manipulation and learn how to effectively merge different styles and images into a unified artwork.",
-        "image": "../assets/montage-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/montage-01.svg",
         "category": "graphic"
       },
       {
         "id": 14,
         "title": "Teaser, Les Pas Perdus",
         "description": "The producer of the movie Les Pas Perdus asked me to create a teaser for Instagram, which turned out to be more of an introduction to the actors rather than a traditional teaser. The producer provided the footage, and my task was to create a visually engaging video to introduce the cast.\n\nI used Premiere Pro to edit the video and incorporated masks to highlight key moments and create smooth transitions between the shots. This project allowed me to experiment with editing techniques and develop my skills in visual storytelling while working on a real-world project.",
-        "image": "../assets/lesPasPerdus-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/lesPasPerdus-01.svg",
         "link": "https://youtu.be/ZwqHsA0GTNc",
         "category": "social"
       },
@@ -110,7 +110,7 @@
         "id": 15,
         "title": "Kinderfonds",
         "description": "In my first year of university, I worked on a group project for a client over the course of three weeks. Together with four teammates, we were tasked with creating or renewing the website for Kinderfonds, an organization that focuses on providing financial support and opportunities for children in need. This project involved close collaboration with the client and regular guidance from our teachers.\n\nEach week, we gathered feedback from the client and the teachers, which we then implemented to refine our work. By the end of the three weeks, we delivered a final version of the website that aligned with the client's vision. The project concluded with a presentation of both the website and the development process to the teachers, the client, and our fellow students. This experience strengthened my skills in teamwork, client communication, and web development under real-world conditions.",
-        "image": "../assets/kinderfonds-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/kinderfonds-01.svg",
         "link": "https://soulioulad.be/websites/kinderfonds",
         "category": "uiux"
       },
@@ -118,7 +118,7 @@
         "id": 16,
         "title": "Sport in style",
         "description": "In my first year of university, I created a video to showcase one of my hobbies, and I chose fitness as my topic. The concept followed a humorous storyline where I work hard at the gym, and when I take a break to go to the toilet, I \"level up\" and transform into a stronger version of myself.\n\nTo bring the video together, I filmed the footage and used masks and motion tracking to seamlessly blend the scenes. I also incorporated the Saber plugin to add dynamic and visually cool effects to highlight the transformation. This project allowed me to practice my editing skills while creating a fun and engaging video with a clear narrative.",
-        "image": "../assets/sport-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/sport-01.svg",
         "link": "https://youtu.be/wl3bYCbZLsw",
         "category": "motion"
       },
@@ -126,7 +126,7 @@
         "id": 17,
         "title": "2024 JDN logo animation",
         "description": "For the 2024-2025 futsal season, I created a logo animation for JDN to introduce the club's new sponsor, UR. As a result, JDN Schaarbeek became UR JDN Schaarbeek.\n\nIn the animation, I designed a glitch explosion effect that featured both the JDN and UR logos. The explosion transitioned into a seamless blend, showcasing the new combined logo. This project allowed me to experiment with dynamic motion effects and logo transitions to create an impactful and visually exciting reveal for the club’s new partnership.",
-        "image": "../assets/jdnAnimation1-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/jdnAnimation1-01.svg",
         "link": "https://www.instagram.com/p/C_uwRgUghrY/",
         "category": "social"
       },
@@ -134,7 +134,7 @@
         "id": 18,
         "title": "Ramadan Post For JDN",
         "description": "I created a Ramadan post for JDN to promote a charity initiative where the club was collecting money to buy food and drinks for people without a home and those in need.\n\nTo design the post, I found free-to-use assets on Freepik and brought them together in Photoshop. The goal was to create a visually appealing and informative post that would encourage donations and raise awareness for the cause. This project allowed me to apply my design skills while contributing to a meaningful community effort.",
-        "image": "../assets/ramadan.jpg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/ramadan.jpg",
         "link": "https://www.instagram.com/p/CqdG8R2oB7K/?img_index=1",
         "category": "social"
       },
@@ -142,14 +142,14 @@
         "id": 19,
         "title": "Easyfairs Logo",
         "description": "During my 3-month internship as an E-learning intern at Easyfairs, an international event organizer that creates and manages exhibitions and trade shows, one of my tasks was to transform their logo into four seasonal variations. Each season required a distinct vibe, reflecting the different atmospheres and themes associated with spring, summer, autumn, and winter. These seasonal logos were used for newsletters to give a fresh look to the brand's communications throughout the year.\n\nI designed all the logos in Illustrator and developed the concepts myself, aiming to capture the essence of each season while maintaining the brand’s identity. I’m particularly proud of how the logos turned out, as I was able to merge creativity with branding to create visually appealing seasonal representations.",
-        "image": "../assets/easyfairs-10.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/easyfairs-10.svg",
         "category": "graphic"
       },
       {
         "id": 20,
         "title": "Track & Train",
         "description": "TrainWorld approached me and four teammates to work on an interactive project over the course of three weeks. The goal was to create a fun and engaging application for visitors of the TrainWorld museum. We named the project Track & Train, and the concept involved scanning a model train to unlock it, allowing visitors to interact with and 'drive' the train within the app.\n\nThis project was an exciting blend of creativity and technology, offering museum-goers a playful experience. By combining augmented reality and interactive elements, we were able to bring the museum exhibits to life in an innovative way, making the visit even more memorable and engaging for both children and adults.",
-        "image": "../assets/train-10.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/train-10.svg",
         "link": "https://xd.adobe.com/view/84f39b1e-a8d4-4e60-aa4a-f5fc5cd88f9f-d1a0/",
         "category": "uiux"
       },
@@ -157,7 +157,7 @@
         "id": 21,
         "title": "Showreel 2023",
         "description": "For my third year at university, I had to create a showreel showcasing all the projects I worked on during the Expert Lab course. The course involved working on various projects in a topic of personal interest, which would contribute to my final project in the second semester. I chose to focus on TouchDesigner for my projects.\n\nI began by selecting a song I liked and then created a storyboard to plan the flow of the showreel. I designed the assets in Illustrator, carefully selecting colors that fit the vibe I wanted to convey. Once the illustrations were ready, I imported them into After Effects and added my own creative touch to bring everything together, making use of my skills and experimentation to create a visually dynamic showreel.",
-        "image": "../assets/showreel-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/showreel-01.svg",
         "link": "https://youtu.be/yyaz2wKG2fI",
         "category": "motion"
       },
@@ -165,7 +165,7 @@
         "id": 22,
         "title": "Sport Choice",
         "description": "I created an infographic video about how to choose a sport to practice. To make the visuals engaging, I designed illustrations in Illustrator and then imported them into After Effects, where I animated them with smooth transitions and dynamic effects.\n\nTo enhance the presentation, I collaborated with a friend who provided the voice-over, making the video more informative and professional. This project allowed me to refine my skills in digital illustration, motion design, and storytelling while exploring different tools to create compelling visual content.",
-        "image": "../assets/choose-01.svg",
+        "image": "https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/choose-01.svg",
         "link": "https://youtu.be/PpFfuARm56U",
         "category": "motion"
       }

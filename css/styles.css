@@ -20,7 +20,7 @@ label, input, textarea, a, button, li, a[href], a:active  {
   height: 50px;
   border: 2px solid rgba(0, 0, 0, 0);
   border-radius: 50%;
-  background-image: url(../assets/cursor.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursor.png);
   background-size: cover;
   pointer-events: none; /* Prevent it from interfering with other elements */
   transition: background-image 0.3s ease, transform 0.3s ease; /* Smooth transform */
@@ -33,7 +33,7 @@ header {
   height: 100vh;
   top: 0;
   left: 0;
-  background-image: url(../assets/bgGreenGold.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/bgGreenGold.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -58,7 +58,7 @@ a {
 
 /* When hovering over the logo, change the cursor background image */
 a:hover .custom-cursor {
-  background-image: url(../assets/cursorHover.png) !important;
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png) !important;
 }
 
 /* Hide default cursor when hovering over the logo */
@@ -168,7 +168,7 @@ header::before {
   height: 20px;
   width: 200px;
   /* background-color: blue; */
-  background-image: url(../assets/barTitle.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/barTitle.png);
   background-size: cover;
   position: absolute;
   left: -250px;
@@ -181,7 +181,7 @@ header::before {
   height: 20px;
   width: 200px;
   /* background-color: blue; */
-  background-image: url(../assets/barTitle.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/barTitle.png);
   background-size: cover;
   position: absolute;
   right: -250px;
@@ -529,7 +529,7 @@ header::before {
   position: fixed;
   height: 100vh;
   width: 100vw;
-  background-image: url(../assets/bgGreenGold.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/bgGreenGold.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -549,7 +549,7 @@ header::before {
 /* Cross styling */
 .left-line, .right-line {
   width: 100%;
-  background-image: url(../assets/tubeGold.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/tubeGold.png);
 }
 
 .left-line {
@@ -575,7 +575,7 @@ header::before {
 }
 
 .hamburger:hover .custom-cursor {
-  background-image: url(../assets/cursorHover.png) !important;
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png) !important;
 }
 
 
@@ -588,11 +588,11 @@ header::before {
 .top-line {
   width: 70%;
   margin-left: auto;
-  background-image: url(../assets/tubeGold.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/tubeGold.png);
 }
 
 .bottom-line {
-  background-image: url(../assets/tubeGold.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/tubeGold.png);
   width: 100%;
 }
 
@@ -610,18 +610,18 @@ header::before {
 }
 
 .cross:hover .custom-cursor {
-  background-image: url(../assets/cursorHover.png) !important;
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png) !important;
 }
 
 .left-line {
   width: 100%;
   margin-left: auto;
-  background-image: url(../assets/tubeGold.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/tubeGold.png);
   transform: rotate(45deg);
 }
 
 .right-line {
-  background-image: url(../assets/tubeGold.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/tubeGold.png);
   width: 100%;
   transform: rotate(-45deg);
   margin-top: -30%;
@@ -681,7 +681,7 @@ header::before {
   position: absolute;
   height: 30px;
   width: 30px;
-  background-image: url(../assets/littleDiamondGold.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/littleDiamondGold.png);
   background-size: cover;
   left: -15%;
   top: 50%;
@@ -786,7 +786,7 @@ header.worksHeader::before {
   position: absolute;
   height: 25px;
   width: 25px;
-  background-image: url(../assets/littleDiamondGold.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/littleDiamondGold.png);
   background-size: cover;
   left: -8%;
   top: 50%;
@@ -1069,7 +1069,7 @@ header.worksHeader::before {
   content: "";
   position: absolute;
   /* background-color: red; */
-  background-image: url(../assets/aboutLine.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/aboutLine.png);
   background-size: cover;
   height: 25px;
   width: 300px;
@@ -1174,7 +1174,7 @@ header.worksHeader::before {
   content: "";
   height: 20px;
   width: 200px;
-  background-image: url(../assets/barTitle.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/barTitle.png);
   background-size: cover;
   position: absolute;
   left: -95%;
@@ -1186,7 +1186,7 @@ header.worksHeader::before {
   content: "";
   height: 20px;
   width: 200px;
-  background-image: url(../assets/barTitle.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/barTitle.png);
   background-size: cover;
   position: absolute;
   top: 50%;
@@ -1205,7 +1205,7 @@ header.worksHeader::before {
 
 .languages::after {
   content: "";
-  background-image: url(../assets/noCircleSquareGold.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/noCircleSquareGold.png);
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -1315,7 +1315,7 @@ header.worksHeader::before {
   height: 100%;
   width: 30%;
   position: absolute;
-  background-image: url(../assets/illustratorLogo.svg);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/illustratorLogo.svg);
   background-size: cover;
   background-position: center;
   right: -5%;
@@ -1365,7 +1365,7 @@ header.worksHeader::before {
   content: "";
   height: 20px;
   width: 200px;
-  background-image: url(../assets/barTitle.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/barTitle.png);
   background-size: cover;
   position: absolute;
   left: -100%;
@@ -1377,7 +1377,7 @@ header.worksHeader::before {
   content: "";
   height: 20px;
   width: 200px;
-  background-image: url(../assets/barTitle.png);
+  background-image: url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/barTitle.png);
   background-size: cover;
   position: absolute;
   top: 50%;

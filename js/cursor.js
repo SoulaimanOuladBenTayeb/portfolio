@@ -53,9 +53,9 @@ document.addEventListener('mousemove', (e) => {
   // Adjust the "radius" or distance of cursor hover effect based on cursor's position
   let distance = Math.sqrt((cursorBallX - cursorX) ** 2 + (cursorBallY - cursorY) ** 2);
   if (distance < 50) {
-    customCursor.style.backgroundImage = "url(../assets/cursorHover.png)"; // Change to hover cursor
+    customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png)"; // Change to hover cursor
   } else if (!customCursor.style.backgroundImage.includes("cursorHover.png")) {
-    customCursor.style.backgroundImage = "url(../assets/cursor.png)"; // Default cursor
+    customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursor.png)"; // Default cursor
   }
 });
 
@@ -67,12 +67,12 @@ function setHoverEffectOnLinks() {
   links.forEach(link => {
     // Add event listener for mouseenter to change the cursor image
     link.addEventListener('mouseenter', () => {
-      customCursor.style.backgroundImage = "url(../assets/cursorHover.png)"; // Set hover cursor
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png)"; // Set hover cursor
     });
 
     // Add event listener for mouseleave to reset the cursor image
     link.addEventListener('mouseleave', () => {
-      customCursor.style.backgroundImage = "url(../assets/cursor.png)"; // Reset to default cursor
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursor.png)"; // Reset to default cursor
     });
   });
 }
@@ -88,11 +88,11 @@ const sliderButtons = document.querySelectorAll(".slider-btn");
 function setHoverEffectOnButtons() {
   sliderButtons.forEach(button => {
     button.addEventListener("mouseenter", () => {
-      customCursor.style.backgroundImage = "url(../assets/cursorHover.png)";
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png)";
     });
 
     button.addEventListener("mouseleave", () => {
-      customCursor.style.backgroundImage = "url(../assets/cursor.png)";
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursor.png)";
     });
   });
 }
@@ -105,11 +105,11 @@ const viewMoreButtons = document.querySelectorAll(".view-more-btn");
 function setViewMoreButtons() {
   viewMoreButtons.forEach(button => {
     button.addEventListener("mouseenter", () => {
-      customCursor.style.backgroundImage = "url(../assets/cursorHover.png)";
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png)";
     });
 
     button.addEventListener("mouseleave", () => {
-      customCursor.style.backgroundImage = "url(../assets/cursor.png)";
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursor.png)";
     });
   });
 }
@@ -121,11 +121,11 @@ const workOverlay = document.querySelectorAll(".work-overlay");
 function setworkOverlay() {
   workOverlay.forEach(button => {
     button.addEventListener("mouseenter", () => {
-      customCursor.style.backgroundImage = "url(../assets/cursorHover.png)";
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png)";
     });
 
     button.addEventListener("mouseleave", () => {
-      customCursor.style.backgroundImage = "url(../assets/cursor.png)";
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursor.png)";
     });
   });
 }
@@ -170,11 +170,11 @@ const hambHover = document.querySelectorAll(".hamburger");
 function sethambHover() {
   hambHover.forEach(button => {
     button.addEventListener("mouseenter", () => {
-      customCursor.style.backgroundImage = "url(../assets/cursorHover.png)";
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png)";
     });
 
     button.addEventListener("mouseleave", () => {
-      customCursor.style.backgroundImage = "url(../assets/cursor.png)";
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursor.png)";
     });
   });
 }
@@ -186,11 +186,11 @@ const crossHover = document.querySelectorAll(".cross");
 function setcrossHover() {
   crossHover.forEach(button => {
     button.addEventListener("mouseenter", () => {
-      customCursor.style.backgroundImage = "url(../assets/cursorHover.png)";
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursorHover.png)";
     });
 
     button.addEventListener("mouseleave", () => {
-      customCursor.style.backgroundImage = "url(../assets/cursor.png)";
+      customCursor.style.backgroundImage = "url(https://raw.githubusercontent.com/SoulaimanOuladBenTayeb/portfolio-images/main/assets/cursor.png)";
     });
   });
 }
